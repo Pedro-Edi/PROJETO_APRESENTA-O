@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "id_genero": 0,
+        "nome": "admin",
+        "fone": "0000",
+        "email": "admin",
+        "senha": "admin"
+    },
+    {
+        "id": 1,
+        "id_genero": 2,
+        "nome": "Paralamas",
+        "fone": "84 811919",
+        "email": "pedro@gmail.com",
+        "senha": "12"
+    },
+    {
+        "id": 2,
+        "id_genero": 1,
+        "nome": "GBR",
+        "fone": "84 89199-0912",
+        "email": "gbr@gmail.com",
+        "senha": "1000"
+    },
+    {
+        "id": 4,
+        "id_genero": 1,
+        "nome": "Moby Dick",
+        "fone": "n",
+        "email": "am",
+        "senha": "a"
+    },
+    {
+        "id": 5,
+        "id_genero": 7,
+        "nome": "Ponto de equilibrio",
+        "fone": "40048922",
+        "email": "pontodeequilibrio@gmail.com",
+        "senha": "1234"
+    },
+    {
+        "id": 6,
+        "id_genero": 1,
+        "nome": "Let's go",
+        "fone": "(84) 99100-1019",
+        "email": "a",
+        "senha": "a"
+    }
+]
